@@ -1,0 +1,117 @@
+body{
+    background-color: #252525;
+}
+div.container{
+    background-color: #fff;
+    box-shadow: 3px 3px 5px black;
+    width: 98%;
+    height: 10000px;
+    display: flex;
+    margin: auto;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: row;
+    
+
+}
+div.box{
+    background-color: skyblue;
+    width: 320px;
+    height: 300px;
+    box-shadow: 3px 3px 5px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    margin-top: 30px;
+    
+
+}
+.item{
+    background-color: #252525;
+    color: white;
+    padding: 20px;
+
+}
+.item2{
+    background-color: #252525;
+    color: white;
+    padding: 20px;
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.um{font-size: 30px;}
+.dois{font-size: 20px;}
+
+div.box2{
+    background-color: #EBB06E;
+    height: 1000px;
+    box-shadow: 3px 3px 5px black;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 320px;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    justify-content: flex-start;
+    
+}
+.lista{
+    align-self: flex-start;
+    margin: 10px;
+}
+
+.li{
+    margin-bottom: 15px;
+}
+
+.box3{
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 3px 3px 3px black;
+    flex-grow: 0;
+    width: 280px;
+    padding-left: 15px;
+}
+
+.box4{
+    background-color: #9E703A;
+    width: 80%;
+    height: 1320px;
+    margin: 30px;
+    box-shadow: 5px 5px 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container2{
+    display: flex;
+    flex-direction: column;
+}
+
+.conteudo{
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+
+.boxseparada{
+    width: 95%;
+    height: 1300px;
+    background-color: #FFCC91;
+    box-shadow: 3px 3px 5px black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.lang{
+    display: flex;
+    flex-direction: row;
+}
+picture#imgl{
+    margin-left: 200px;
