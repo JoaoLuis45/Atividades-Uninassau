@@ -267,7 +267,8 @@ a li.libtn:hover{
 
 div.download{
     display: flex;
-    justify-content: ;
+    
+    flex-wrap: nowrap;
     
 }
 div.download2{
